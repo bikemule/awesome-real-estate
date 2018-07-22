@@ -13,8 +13,11 @@
   - [Events](#events)
   - [Podcasts](#podcasts)
 - [Software](#software)
-  - [APIs](#apis)  
+  - [APIs](#apis)
+  - [CMSs](#cmss)
   - [CRMs](#crms)
+  - [Datasets](#datasets)
+  - [R Packages](#r-packages)
 - [License](#license)
 
 
@@ -27,10 +30,6 @@
 - [Pilabs](http://pilabs.co.uk/) - European property tech venture capital firm 
 
 ## Github projects
-
-- [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings
-- [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder
-
 
 ## Resources
 
@@ -56,11 +55,24 @@
 
 - [Onboard Informatics Community API](https://developer.onboard-apis.com/products/Community-API) - Provides access to a rich set of local information.
 - [Rets Rabbit](http://www.retsrabbit.com) - Import real estate listings and photos from RETS or ListHub. 
-- [Zoo Property](http://www.zooproperty.com/api/) - RESTful API to manage property listings.
+- [Property Hub Real Estate API](https://www.agentpoint.com.au/real-estate/crm-listing-management/property-hub/propertyhub-real-estate-api/) - Updated from Zoo Property. RESTful API to manage property listings. From their site: "The PropertyHub Real Estate API is the most effective way to get real estate data from the Zoo system on an on demand basis. For ongoing property data updates we still recommend using REAXML where possible, however it does not cover many forms of data we store and isn’t practical in some situations."
+
+### CMSs
+
+- [EasyPropertyListings](https://github.com/easypropertylistings/Easy-Property-Listings) - WordPress plugin for property listings
+- [PropertyWebBuilder](https://github.com/etewiah/property_web_builder) - Powerful, quick property listings website builder
 
 ### CRMs
 
 - [TeamLeads](http://teamleads.com/) - Expensive but very comprehensive real estate CRM
+
+### Datasets
+
+- [ACRIS](https://github.com/fitnr/acris-download) This Makefile downloads NYC property transfer data and optionally loads it into a database.
+
+### R Packages
+- [realtR](https://github.com/abresler/realtR) - [Introduction to realtR](http://asbcllc.com/r_packages/realtR/2018/introduction/index.html) An R package to provide information on listings, mortgages, prices, trends, and more.
+
 
 ## License
 
